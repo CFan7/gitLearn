@@ -2,3 +2,4 @@ This is my first try in git!
 Hello World!
 
 I wanna change my count.
+Creating a new branch is quick and magic.
